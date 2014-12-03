@@ -1,0 +1,142 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Kolkata Traffic Police
+</title>
+<script type="text/javascript" language="JavaScript" src="calendar_us.js"></script>
+<link rel="stylesheet" href="calendar.css" type="text/css" /><link rel="stylesheet" href="styles/KPT.css" type="text/css" />
+<!--<link href="styles/style.css" rel="stylesheet" type="text/css" />-->
+<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/dropdown.js"></script>
+</head>
+<body>
+<form name="form1" method="post" action="Show_Programs.aspx" id="form1" class="tabH100">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<div class="wrapper">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tabH100">
+      <!--header part-->
+      <tr>
+        <td align="left" valign="top" style="height:84px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <!--top part-->
+            <tr>
+              <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="header">
+                  <tr>
+                    <td align="left" valign="middle" width="160"></td>
+                    <td align="left" valign="left" ><span style="font:bold 24px/48px 'Times New Roman', Times, serif; text-transform:uppercase;">Kolkata Traffic Police</span> </td>
+                    <td align="right" valign="right">&nbsp;</td>
+                  </tr>
+                </table></td>
+            </tr>
+            <!--bottom part-->
+            <tr>
+              <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0"  class="header_btm">
+                  <tr>
+                    <td align="right">&nbsp;</td>
+                  </tr>
+                </table></td>
+            </tr>
+          </table></td>
+      </tr>
+      <!--header part end-->
+      <!--body part-->
+      <tr>
+        <td align="left" valign="top">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="mainContent" align="center">
+		
+		<tr>
+		<td align="center" valign="middle" style=" height:30px;"><h2>Traffic News Update</h2></td>
+		</tr>
+				
+		<tr>
+		<td>
+			<div>
+				<!--<table border="0" align="center" width="100%" class="frm_tbl" cellpadding="0" cellspacing="4">-->
+				<table border="0" align="center" width="100%" cellpadding="0" cellspacing="2" class="frm_tbl" style="margin:10px 0 0 0;">
+              
+				  <tr>
+					<td align="center" valign="top">
+					<div>
+	<table class="grid_tbl" cellspacing="0" cellpadding="4" align="Center" rules="all" border="1" id="grvPrograms" width="860">
+		<tr>
+			<th class="HeaderStyle" scope="col">Date</th><th class="HeaderStyle" scope="col">Time (Hrs.)</th><th class="HeaderStyle" align="left" scope="col">Program Type</th><th class="HeaderStyle" scope="col">Place</th><th class="HeaderStyle" scope="col">Details</th><th class="HeaderStyle" scope="col">Strength</th>
+		</tr><tr>
+			<td class="RowStyle">03/12/2014</td><td class="RowStyle">12:00</td><td class="RowStyle" align="center" height="40" width="24">
+							<span id="grvPrograms_ctl02_lblPT" HeaderText="Program Type">SPECIAL EVENTS</span>
+						  </td><td class="RowStyle">R. R. Avenue.</td><td class="RowStyle">Demonstration by an Organisation at R. R. Avenue followed by special program against issues related to physically challenged persons.</td><td class="RowStyle">1500/1600</td>
+		</tr><tr>
+			<td class="RowStyle">03/12/2014</td><td class="RowStyle">12:30</td><td class="RowStyle" align="center" height="40" width="24">
+							<span id="grvPrograms_ctl03_lblPT" HeaderText="Program Type">PROCESSION</span>
+						  </td><td class="RowStyle">Rabindra Sadan.</td><td class="RowStyle">A procession will be organised by an Organisation in observance of the International Day of Disabilities - 2014. It will start from Rabindra Sadan and move through A. J. C. Bose Road, Exide crossing, Lord Sinha Road, Shakespeare Sarani, Cathedral Road and back to the point of origin.</td><td class="RowStyle">1400/1500</td>
+		</tr><tr>
+			<td class="RowStyle">02/12/2014</td><td class="RowStyle">13:00</td><td class="RowStyle" align="center" height="40" width="24">
+							<span id="grvPrograms_ctl04_lblPT" HeaderText="Program Type">SPECIAL EVENTS</span>
+						  </td><td class="RowStyle">R. S. M. Square.</td><td class="RowStyle">Meeting and special events will be organised by a Political Organisation at R. S. M. Square. </td><td class="RowStyle">200/250</td>
+		</tr><tr>
+			<td class="RowStyle">02/12/2014</td><td class="RowStyle">13:30</td><td class="RowStyle" align="center" height="40" width="24">
+							<span id="grvPrograms_ctl05_lblPT" HeaderText="Program Type">PROCESSION</span>
+						  </td><td class="RowStyle">College Square.</td><td class="RowStyle">A Procession will be organised by a Political Organisation from College Square to Dharmatala via College Street, N. C. Street, R. A. Kidwai Road and S. N. Banerjee Road.</td><td class="RowStyle">Good Number.</td>
+		</tr><tr>
+			<td class="RowStyle">02/12/2014</td><td class="RowStyle">17:00</td><td class="RowStyle" align="center" height="40" width="24">
+							<span id="grvPrograms_ctl06_lblPT" HeaderText="Program Type">PROCESSION</span>
+						  </td><td class="RowStyle">Dharmatala.</td><td class="RowStyle">A procession will be organised by a Political Organisation from Dharmatala to College Square via Lenin Sarani, Wellington Square, N. C. Street and College Street. Earlier processions will come from Ramlila Maidan, Shyambazar 5 point, Khidderpur crossing etc. to Dharmatala.</td><td class="RowStyle">2200</td>
+		</tr><tr>
+			<td class="RowStyle">01/12/2014</td><td class="RowStyle">13:00</td><td class="RowStyle" align="center" height="40" width="24">
+							<span id="grvPrograms_ctl07_lblPT" HeaderText="Program Type">MEETING</span>
+						  </td><td class="RowStyle">Sahid Minar Maidan.</td><td class="RowStyle">Mass meeting by an Political Organisation at Sahid Minar Maidan regarding various issues. Earlier processions will come from Howrah, Sealdah Railway Stations and from South, North Kolkata.</td><td class="RowStyle">20000/25000</td>
+		</tr><tr>
+			<td class="RowStyle">29/11/2014</td><td class="RowStyle">09:00</td><td class="RowStyle" align="center" height="40" width="24">
+							<span id="grvPrograms_ctl08_lblPT" HeaderText="Program Type">PROCESSION</span>
+						  </td><td class="RowStyle">The Metropolitan Institute, 39 Sankar Ghosh Lane</td><td class="RowStyle">Procession from The Metropolitan Institute, 39 Sankar Ghosh Lane via Guruprasad Chowdhury Lane, Bechu Chatterjee Street, Bidhan Sarani and terminate at Star Theatre by an organisation.</td><td class="RowStyle">550-600</td>
+		</tr><tr>
+			<td class="RowStyle">29/11/2014</td><td class="RowStyle">12:00</td><td class="RowStyle" align="center" height="40" width="24">
+							<span id="grvPrograms_ctl09_lblPT" HeaderText="Program Type">MEETING</span>
+						  </td><td class="RowStyle">Sahid Minar Maidan.</td><td class="RowStyle">Meeting at Sahid Minar Maidan by an organisation. Earlier processions will come from Howrah and Sealdah Railway Station, Park Circus Railway Station, Zakaria Street, Nakhoda Mosque, Rajabazar crossing, Kidderpore More, Park Circus Maidan, Chandpal Ghat etc.</td><td class="RowStyle">75000-100000</td>
+		</tr><tr>
+			<td class="RowStyle">29/11/2014</td><td class="RowStyle">15:00</td><td class="RowStyle" align="center" height="40" width="24">
+							<span id="grvPrograms_ctl10_lblPT" HeaderText="Program Type">PROCESSION</span>
+						  </td><td class="RowStyle">Roy Math near 14 No Bus Stand.</td><td class="RowStyle">Procession from Roy Math near 14 No Bus Stand and will move through the Crossing of J L Sarani and Roy Bahadur Road, Taratala crossing, Diamond Park, J L Sarani, Roy Bahadur Road, Jyotish Roy Road and terminate at Bhatikhana crossing by an organisation.</td><td class="RowStyle">200</td>
+		</tr><tr>
+			<td class="RowStyle">29/11/2014</td><td class="RowStyle">16:00</td><td class="RowStyle" align="center" height="40" width="24">
+							<span id="grvPrograms_ctl11_lblPT" HeaderText="Program Type">PROCESSION</span>
+						  </td><td class="RowStyle">Subodh Mullick Square.</td><td class="RowStyle">Procession from Subodh Mullick Square to Alimuddin street via R A Kidwai Road by an organisation.</td><td class="RowStyle">200</td>
+		</tr>
+	</table>
+</div>
+					</td>
+				  </tr>
+		
+				  <tr>
+					<td align="left" valign="top">&nbsp;</td>
+				  </tr>
+				</table>
+			</div>
+			<div class="clear"></div>
+		</td>
+		</tr>
+		<tr>
+		<td height="0"></td>
+		</tr>
+		</table>
+		</td>
+      </tr>
+      <!--body part end-->
+    </table>
+</div>
+<!--<div class="push"></div>
+<div class="footer">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="footer_cont">
+      <tr>
+        <td width="50%">Copyright &copy; Kolkata Traffic Police, 2012</td>
+        <td width="50%" align="right" valign="middle"><span>Kolkata Police HeadQuater, Traffic Department, Lalbazar, Kolkata, 
+          Email:<a href="mailto:dctp@kolkatatrafficpolice.gov.in">dctp@kolkatatrafficpolice.gov.in</a></span> </td>
+      </tr>
+    </table>
+  </div>-->
+</form>
+</body>
+</html>
